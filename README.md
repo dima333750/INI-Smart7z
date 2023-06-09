@@ -4,7 +4,7 @@ Smart7z ini more formats
 Файл настроек по умолчанию изменен, добавлены в исключение (копируются без сжатия) плохо сжимаемые файлы:
 *.7z *.rar *.xz *.lzma *.ace *.arc *.arj *.bz *.tbz *.bz2 *.tbz2 *.cab *.deb *.gz *.tgz *.ha *.lha *.lzh *.lzo *.lzx *.pak *.rar *.rpm *.sit *.zoo *.zip *.jar *.ear *.war *.msi *.3gp *.avi *.mov *.mpeg *.mpg *.mpe *.wmv *.aac *.ape *.fla *.flac *.la *.mp3 *.m4a *.mp4 *.ofr *.ogg *.pac *.ra *.rm *.rka *.shn *.swa *.tta *.wv *.wma *.wav
 
-Полное описание https://www.tc4shell.com/ru/7zip/smart7z/
+Полное описание оригинала https://www.tc4shell.com/ru/7zip/smart7z/
 
 Smart7z - это плагин для популярного архиватора 7-Zip, позволяющий производить упаковку файлов в 7z архив с использованием гибких настроек. Например, можно настроить, что бы jpg файлы упаковывались с использованием метода LZMA, wav файлы с использованием метода WavPack2, текстовые файлы с использованием метода PPMD, а все остальное с использованием метода LZMA2. Подобное разделение может значительно улучшить качество сжатия.
 
